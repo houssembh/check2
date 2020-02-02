@@ -1,0 +1,58 @@
+.titres {
+    margin: auto;
+    width: 30%;    
+    padding: 0px;
+    text-align: center;
+    color:white;
+  }
+.containt {
+    margin: auto;
+    width: 30%;    
+    padding: 0px;
+    text-align: center;
+   
+}
+.centrer{
+
+  text-align: center;
+  background-color: red;
+ 
+}
+.alignement{
+  display: inline-block;
+  margin-right: 50px;
+}
+body{
+  Background-image:
+
+  Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+  
+  Linear-gradient(127deg, black, black 70.71%),
+  
+  Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+img{
+  width: 100%;
+}
+.image{
+  display: inline-block;
+  width: 50px;
+  margin:0;
+}
+.items{
+  margin-left:40%;
+  display: inline-block;
+  margin-right: 50px;
+  
+
+}
+a{
+text-decoration:none;
+color: white;
+font-size: 20px;
+}
+.tsawer{
+  display: inline-block; 
+  width: 30%;
+  margin-right: 20px;
+}
